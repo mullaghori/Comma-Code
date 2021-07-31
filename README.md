@@ -1,6 +1,6 @@
 >From the book: Automate the Boring Stuff With Python. Writer: AL Sweigart
 
-##### Comma-Code
+# PICTURE-GRID
 It is a practice project for python beginners.
 
 Say, you have a list of lists, where each value in the inner list is a one-character string, like this:
