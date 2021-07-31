@@ -17,6 +17,7 @@ Grid = [['.', '.', '.', '.', '.', '.'],
 ```
 
 You can think of a grid[x][y] at being the character as x-coordinate and y-coordinate of a "picture" drawn with text characters. The (0,0) origin will be the upper-left corner, the x-coordinate increases going right, and the y-coordinates increases going down.
+
 Copy the provious grid value, and
 
 ***👉 No.1 Write code that uses it to print the image;***
